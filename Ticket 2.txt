@@ -1,0 +1,32 @@
+          Pizzaria Gemma 
+         Tel. 657 84 76 39
+       gemma@pizzeriaGemma.com
+ __________________________________
+               DESGLOSE
+
+TICKET Nº: 2
+FECHA: 03-05-2023 15:23
+
+      ................. 
+  Pizza 1
+MASA: Normal - 3.0€
+TIPO: Barbacoa - 7.0€
+INGREDIENTES EXTRA: [] - 0.0€
+TAMAÑO: mediana - 15.0%
+TOTAL 11,50€
+
+      ................. 
+  Pizza 2
+MASA: Normal - 3.0€
+TIPO: Barbacoa - 7.0€
+INGREDIENTES EXTRA: [] - 0.0€
+TAMAÑO: mediana - 15.0%
+TOTAL 11,50€
+
+
+ _______________________ 
+  PRECIO TOTAL 23,00€
+
+ ____________________________________ 
+
+    GRACIAS POR SU VISITA!
