@@ -317,16 +317,16 @@ public class PrimaryController implements Initializable {
             ticketPizzas.add("Pizza " + pizzas.getIdPizza() + "\n"
                     + pizzas.composicion() + "\n");
         }
-        nota = "          Pizzaria Gemma \n";
+        nota = "          Pizzería Gemma \n";
         nota += "         Tel. 657 84 76 39\n";
         nota += "       gemma@pizzeriaGemma.com\n";
         nota += " __________________________________\n";
         nota += "               DESGLOSE\n\n";
-        nota += "TICKET Nº: "+ numTicket+"\n";
+        nota += "TICKET N º :  "+ numTicket+"\n";
         nota += "FECHA: " + fechaTicket + "\n\n";
         
         for (String pizza : ticketPizzas) {
-            nota += "      ................. \n  ";
+            nota += "      ___________________ \n  ";
             nota += pizza+"\n";
         }
         nota += "\n _______________________ \n  ";

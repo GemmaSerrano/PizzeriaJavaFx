@@ -1,0 +1,36 @@
+          Pizzería Gemma 
+         Tel. 657 84 76 39
+       gemma@pizzeriaGemma.com
+ __________________________________
+               DESGLOSE
+
+TICKET N º :  5
+FECHA: 05-06-2026 13:30
+
+      ___________________ 
+  Pizza 1
+MASA: Normal - 3.0€
+TIPO: Mexicana - 8.5€
+INGREDIENTES EXTRA: [Tomate] - 1.5€
+TAMAÑO: familiar - 30.0%
+GRATINAR: 2%
+BEBIDA: 2 €
+TOTAL 19,24€
+
+      ___________________ 
+  Pizza 2
+MASA: Normal - 3.0€
+TIPO: Básica - 7.0€
+INGREDIENTES EXTRA: [Queso] - 0.75€
+TAMAÑO: mediana - 15.0%
+GRATINAR: 2%
+BEBIDA: 2 €
+TOTAL 14,61€
+
+
+ _______________________ 
+  PRECIO TOTAL 33,85€
+
+ ____________________________________ 
+
+    GRACIAS POR SU VISITA!
